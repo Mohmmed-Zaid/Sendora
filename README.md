@@ -6,7 +6,7 @@
 <p>Sendora is a full-stack application that intelligently generates professional email replies using cutting-edge AI technology. Built with Spring Boot backend, React frontend, and seamless Chrome Extension integration, Sendora eliminates writer's block and streamlines your email communication.</p>
 <h2>📸 Screenshots</h2>
 <h3>React Frontend Interface</h3>
-<p>![Sendora Frontend](screenshort/screenshot.png)
+<p>![Sendora Frontend](screenshort/screenshort.png)
 <em>Clean and intuitive interface for generating AI-powered email replies</em></p>
 <h3>Chrome Extension in Action</h3>
 <p>![Chrome Extension](screenshort/Screenshot (127).png)
