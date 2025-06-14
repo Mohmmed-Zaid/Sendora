@@ -6,14 +6,29 @@
 <p>Sendora is a full-stack application that intelligently generates professional email replies using cutting-edge AI technology. Built with Spring Boot backend, React frontend, and seamless Chrome Extension integration, Sendora eliminates writer's block and streamlines your email communication.</p>
 <h2>📸 Screenshots</h2>
 <h3>React Frontend Interface</h3>
-<p>![Sendora Frontend](screenshort/screenshort.png)
-<em>Clean and intuitive interface for generating AI-powered email replies</em></p>
+<p>
+  <img src="screenshort/screenshort.png" alt="Sendora Frontend" />
+  <em>Clean and intuitive interface for generating AI-powered email replies</em>
+</p>
+
 <h3>Chrome Extension in Action</h3>
-<p>![Chrome Extension](screenshort/Screenshot (127).png)
-<em>Seamlessly integrated into Gmail for instant reply generation</em></p>
+<p>
+  <img src="screenshort/Screenshot%20(127).png" alt="Chrome Extension" />
+  <em>Seamlessly integrated into Gmail for instant reply generation</em>
+</p>
+
 <h3>Gmail Interface</h3>
-<p>![Application Dashboard](screenshort/Screenshot (125).png)
-<em>Complete overview of Sendora's powerful features</em></p>
+<p>
+  <img src="screenshort/Screenshot%20(125).png" alt="Application Dashboard" />
+  <em>Complete overview of Sendora's powerful features</em>
+</p>
+
+<h3>New Screenshot</h3>
+<p>
+  <img src="screenshort/Screenshot%20(128).png" alt="New Screenshot" />
+  <em>Recently added screenshot to show the latest UI</em>
+</p>
+
 <h2>🌟 Features</h2>
 <ul>
 <li><strong>🤖 AI-Powered Replies</strong>: Generate contextually relevant and grammatically perfect email responses using Google Gemini AI</li>
@@ -149,5 +164,5 @@ cd ../chrome-extension
 <li>Chrome Extension developers for seamless browser integration</li>
 </ul>
 <hr>
-<p><strong>Built with ❤️ by the Team</strong></p>
+<p><strong>Built with ❤️ by the Mozaic Team</strong></p>
 <p><em>Transform your email experience today with AI-powered communication!</em></p>
